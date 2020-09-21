@@ -1,0 +1,9 @@
+
+home name -> display-2
+nav items -> h2
+
+
+
+
+
+about -> display-2
